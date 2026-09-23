@@ -1,6 +1,6 @@
 ### Adrian Alvear
 
-Full-stack developer building AI into real products. Currently at [Venuiti Healthcare](https://venuitihealth.com/), working on healthcare interoperability and conformance tooling. Based in Waterloo, Ontario.
+Full-stack developer building AI into real products. Currently a developer at Venuiti Healthcare. Based in Waterloo, Ontario.
 
 **Projects**
 
