@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6366f1&height=200&section=header&text=Adrian%20Alvear&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Adrian Alvear" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6366f1&height=200&section=header&text=Adrian%20Alvear&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Adrian Alvear" />
 
 <a href="https://github.com/Adrian-Alvear">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=AI+%26+Automation+Engineer;Agentic+systems+%C2%B7+LLM+integration;Full-stack+developer;Keyboard-first+developer+tools" alt="Typing SVG" />
