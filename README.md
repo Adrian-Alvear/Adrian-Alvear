@@ -119,8 +119,23 @@ Nothing moves on its own: layouts apply only when requested, and every change ca
 
 ## Experience
 
+### Full-Stack Developer · Venuiti Healthcare
+**2025 – Present** · Waterloo, Ontario
+
+Building healthcare software, integration, and conformance tooling.
+
+- Develop full-stack features across the backend services and web portal of a healthcare conformance testing platform.
+- Build test scenarios and validation tooling that check vendor systems against HL7 FHIR interoperability standards.
+- Work on integration infrastructure that routes and transforms messages between vendor systems and healthcare gateways.
+
+<picture><img src="https://img.shields.io/badge/Full--Stack-4c1d95?style=flat-square" alt="Full-Stack" /></picture>
+<picture><img src="https://img.shields.io/badge/Java-6d28d9?style=flat-square" alt="Java" /></picture>
+<picture><img src="https://img.shields.io/badge/HL7_FHIR-312e81?style=flat-square" alt="HL7 FHIR" /></picture>
+<picture><img src="https://img.shields.io/badge/Healthcare_Interoperability-4f46e5?style=flat-square" alt="Healthcare Interoperability" /></picture>
+<picture><img src="https://img.shields.io/badge/REST_APIs-7c3aed?style=flat-square" alt="REST APIs" /></picture>
+
 ### AI & Automation Engineer · MindModel AI
-**2024 – Present** · Waterloo, Ontario (Remote)
+**2024 – 2025** · Waterloo, Ontario (Remote)
 
 Building AI-powered features and the systems around them for internal products and client platforms.
 
